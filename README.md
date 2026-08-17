@@ -1,6 +1,6 @@
 This is an unofficial effort to bring the RTX plugin to 5.8 and there might be issues.
 
-## [中文翻译](README_CN.md)         [English](README.md)
+## [中文翻译](README_CN.md) | [English](README.md)
 
 # RTXGI Unreal Engine Plugin
 
