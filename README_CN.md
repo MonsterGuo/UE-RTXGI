@@ -1,5 +1,5 @@
 这是一个非官方移植项目，旨在将 RTXGI 插件带到 Unreal Engine 5.8，可能仍存在一些问题。
-## [中文翻译](README_CN.md)         [English](README.md)
+## [中文翻译](README_CN.md) | [English](README.md)
 
 # RTXGI Unreal Engine 插件
 
