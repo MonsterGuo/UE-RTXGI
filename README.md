@@ -1,4 +1,4 @@
-This is an unofficial effort to bring the RTX plugin to 5.7 and there might be issues.
+This is an unofficial effort to bring the RTX plugin to 5.8 and there might be issues.
 
 # RTXGI Unreal Engine Plugin
 
