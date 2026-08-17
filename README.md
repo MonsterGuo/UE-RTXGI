@@ -1,5 +1,7 @@
 This is an unofficial effort to bring the RTX plugin to 5.8 and there might be issues.
 
+## 中文翻译[中文](README_CN.md)
+
 # RTXGI Unreal Engine Plugin
 
 To bring the advantages of RTXGI to as many developers as possible, all RTXGI 1.1 features are now available in Unreal Engine through the RTXGI UE plugin.
